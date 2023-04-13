@@ -1,0 +1,13 @@
+body{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+#title { background-color: #F6F1F1;}
+h1{color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 125px;
+    line-height: 1;
+    font-size: 5em;
+    padding-bottom: 20px;}
+.container-fluid{padding: 3% 15%;}
+
+.imgg{width: 10px;}
+
